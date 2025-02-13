@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VarunPrasad07
-- 👀 I’m interested in VLSI,GAMES,
+- 👀 I’m interested in VLSI,GAMES and EDITING
 - 🌱 I’m currently learning VLSI design
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me varunssvk543@gmail.com
