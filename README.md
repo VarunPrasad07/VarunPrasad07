@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F2027,50:2C5364,100:00979D&amp;height=220&amp;section=header&amp;text=Varun%20Prasad%20S&amp;fontSize=48&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Embedded%20Systems%20Engineer%20%7C%20Aspiring%20VLSI%20Design%20%26%20Verification%20Engineer&amp;descAlignY=58&amp;descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00979D&height=220&section=header&text=Varun%20Prasad%20S&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Embedded%20Systems%20Engineer%20%7C%20Aspiring%20VLSI%20Design%20%26%20Verification%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
-<a href="https://www.linkedin.com/in/varunprasad07" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/></a>
-<a href="https://varun-portfolio-lime.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&amp;logo=vercel&amp;logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&amp;style=for-the-badge&amp;color=2C5364" alt="profile views"/>
+<a href="https://www.linkedin.com/in/varunprasad07" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://varun-portfolio-lime.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=2C5364" alt="profile views"/>
 
 </div>
 
@@ -53,23 +53,23 @@ class Engineer:
 <img src="https://img.shields.io/badge/Verilog-1a1a2e?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SystemVerilog-1a1a2e?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/AMBA_Protocols-1a1a2e?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Xilinx_Vivado-E31937?style=for-the-badge&amp;logo=xilinx&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Xilinx_Vivado-E31937?style=for-the-badge&logo=xilinx&logoColor=white"/>
 <img src="https://img.shields.io/badge/Quartus_Prime-0071C5?style=for-the-badge"/>
 
 **Embedded & Robotics**
 
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&amp;logo=arduino&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&amp;logo=espressif&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/ESP8266-E7352C?style=for-the-badge&amp;logo=espressif&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
+<img src="https://img.shields.io/badge/ESP8266-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 **Web & Tools**
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 </div>
 
@@ -146,12 +146,12 @@ AIoT-based safety device combining sensors and connectivity for real-time alerts
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&amp;theme=tokyonight&amp;hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
-<img src="https://github-readme-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&amp;theme=tokyonight&amp;no-frame=true&amp;row=1&amp;column=6"/>
+<img src="https://github-readme-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
 
@@ -161,11 +161,11 @@ AIoT-based safety device combining sensors and connectivity for real-time alerts
 
 ## 📬 Let's Connect
 
-<a href="https://www.linkedin.com/in/varunprasad07" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/></a>
-<a href="https://varun-portfolio-lime.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&amp;logo=vercel&amp;logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/varunprasad07" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://varun-portfolio-lime.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 <sub>Open to VLSI Design & Verification opportunities 🚀</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00979D,50:2C5364,100:0F2027&amp;height=100&amp;section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00979D,50:2C5364,100:0F2027&height=100&section=footer" width="100%"/>
 
 </div>
