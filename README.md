@@ -13,9 +13,12 @@
 
 ---
 
-🚀 About Me
-<details open> <summary><b>🖥️ click to run <code>whoami</code></b></summary>
-bash
+### 🚀 About Me
+
+<details open>
+<summary><b>🖥️ click to run <code>whoami</code></b></summary>
+
+```bash
 $ whoami
 Varun Prasad S — RTL Design & Verification Engineer (Fresher)
 
@@ -27,13 +30,47 @@ $ cat current_status.txt
 
 $ echo $LOCATION
 Tamil Nadu, India
-</details> <details> <summary><b>🎯 what I'm focused on right now</b></summary> <br>
- RTL design & functional verification in Verilog/SystemVerilog
- Physical Design flow — synthesis, floorplanning, layout verification
- Embedded systems, IoT & PCB design project work
- Deepening SystemVerilog-based verification methodology
- Exploring approximate computing architectures further
-</details> <details> <summary><b>⚡ quick facts</b></summary> <br>
+```
+
+</details>
+
+<details>
+<summary><b>🎯 what I'm focused on right now</b></summary>
+<br>
+
+- [x] RTL design & functional verification in Verilog/SystemVerilog
+- [x] Physical Design flow — synthesis, floorplanning, layout verification
+- [x] Embedded systems, IoT & PCB design project work
+- [ ] Deepening SystemVerilog-based verification methodology
+- [ ] Exploring approximate computing architectures further
+
+</details>
+
+<details>
+<summary><b>⚡ quick facts</b></summary>
+<br>
+
+| | |
+|---|---|
+| 🏢 **Currently @** | Kiwistron |
+| 🧪 **Sim tools** | Verilator, Vivado, Xilinx ISE |
+| 🏗️ **PD tools** | OpenLane, KLayout |
+| 🐧 **Daily driver OS** | Linux |
+| 💻 **Editor** | VS Code |
+| 🎓 **Degree** | B.E. Electronics & Communication Engineering |
+| 🌐 **From** | Tamil Nadu, India |
+
+</details>
+
+<details>
+<summary><b>💬 ask me about</b></summary>
+<br>
+
+`Verilog` · `SystemVerilog` · `FSM Design` · `AMBA AHB/APB` · `Physical Design` · `OpenLane` · `ESP32/ESP8266 IoT` · `PCB Design in KiCad`
+
+</details>
+
+---
 
 ### 🛠️ Current Role @ Kiwistron
 
