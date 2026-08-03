@@ -13,23 +13,27 @@
 
 ---
 
-### 🚀 About Me
+🚀 About Me
+<details open> <summary><b>🖥️ click to run <code>whoami</code></b></summary>
+bash
+$ whoami
+Varun Prasad S — RTL Design & Verification Engineer (Fresher)
 
-```yaml
-name: Varun Prasad S
-role: RTL Design & Verification Engineer (Fresher)
-current_company: Kiwistron
-started: February 2026
-focus:
-  - RTL design & functional verification in Verilog/SystemVerilog
-  - Physical Design (synthesis → floorplanning → layout verification)
-  - Embedded systems, IoT & PCB design (professional project background)
-based_in: Tamil Nadu, India
-education: B.E. Electronics & Communication Engineering, KRCE Trichy (2025)
-currently_exploring: FSM-driven protocol design, approximate computing, open-source EDA flow
-```
+$ cat current_status.txt
+📍 Kiwistron | RTL Design & Verification Engineer | Feb 2026 – Present
+🎓 B.E. ECE, KRCE Trichy (Anna University) | CGPA 7.92/10 | 2025
+🌱 Background in embedded systems, IoT & PCB design
+🔭 Now deep in RTL-to-PD: synthesis → floorplanning → layout verification
 
----
+$ echo $LOCATION
+Tamil Nadu, India
+</details> <details> <summary><b>🎯 what I'm focused on right now</b></summary> <br>
+ RTL design & functional verification in Verilog/SystemVerilog
+ Physical Design flow — synthesis, floorplanning, layout verification
+ Embedded systems, IoT & PCB design project work
+ Deepening SystemVerilog-based verification methodology
+ Exploring approximate computing architectures further
+</details> <details> <summary><b>⚡ quick facts</b></summary> <br>
 
 ### 🛠️ Current Role @ Kiwistron
 
