@@ -1,77 +1,180 @@
-<h1 align="center">Hi there 👋, I'm Varun Prasad S</h1>
-<h3 align="center">Embedded Systems Engineer | Transitioning into VLSI Design & Verification</h3>
+<h1 align="center">Hi there, I'm Varun Prasad S 👋</h1>
+<h3 align="center">RTL Design & Verification Engineer | Embedded Systems & IoT Builder</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/varunprasad07" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://varun-portfolio-lime.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2EA6DA&center=true&vCenter=true&width=650&lines=RTL+Design+%26+Verification+Engineer+%40+Kiwistron;Verilog+%7C+SystemVerilog+%7C+FSM-based+Design;Physical+Design+%7C+OpenLane+%7C+KLayout;Embedded+Systems+%2F+IoT+%2F+PCB+Design+Enthusiast" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/varun-prasad-s"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:varunssvk543@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/VarunPrasad07"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
 
-### 🧠 About Me
+### 🚀 About Me
 
-- 🎓 Electronics and Communication Engineering graduate from **K. Ramakrishnan College of Engineering**, Anna University
-- 🔬 Trained in **Advanced VLSI Design & Verification** at Maven Silicon Softech, and **PMKVY VLSI Engineer** certified
-- 💼 ~1 year of hands-on experience in **embedded systems, PCB design, and robotics**
-- 🚀 Currently working toward a full-time move into **RTL Design & Verification (SystemVerilog/UVM)**
-- 🤖 Also love building things on the side — robots, drones, IoT devices — because theory only sticks when it moves
-- 📍 Based in Tiruchirappalli, Tamil Nadu, India
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/varunprasad07) or check out my [Portfolio](https://varun-portfolio-lime.vercel.app)
-
----
-
-### 🛠️ Skills
-
-**VLSI / RTL**
-![Verilog](https://img.shields.io/badge/Verilog-informational?style=flat-square)
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-informational?style=flat-square)
-![AMBA](https://img.shields.io/badge/AMBA_Protocols-informational?style=flat-square)
-![Vivado](https://img.shields.io/badge/Xilinx_Vivado-informational?style=flat-square)
-![Quartus](https://img.shields.io/badge/Quartus-informational?style=flat-square)
-
-**Embedded / Robotics**
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![ESP8266](https://img.shields.io/badge/ESP8266-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**Web / Tools**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+```yaml
+name: Varun Prasad S
+role: RTL Design & Verification Engineer (Fresher)
+current_company: Kiwistron
+started: February 2026
+focus:
+  - RTL design & functional verification in Verilog/SystemVerilog
+  - Physical Design (synthesis → floorplanning → layout verification)
+  - Embedded systems, IoT & PCB design (professional project background)
+based_in: Tamil Nadu, India
+education: B.E. Electronics & Communication Engineering, KRCE Trichy (2025)
+currently_exploring: FSM-driven protocol design, approximate computing, open-source EDA flow
+```
 
 ---
 
-### 🔩 Featured Projects
+### 🛠️ Current Role @ Kiwistron
 
-| Project | Description |
-|---|---|
-| **Approximate MAC Unit** | Roba Multiplier–based approximate Multiply-Accumulate architecture for low-power DSP applications |
-| **AHB-to-APB Bridge** | FSM-based protocol translation bridge implemented in Verilog for AMBA-based SoC communication |
-| **1×3 Router Design** | Digital router design in Verilog for on-chip communication routing |
-| **12-Servo Spider Robot** | Quadruped with IK-based gait control, phase-separated crawling (LIFT → SWING → LOWER → DRAG), driven via Arduino Nano + PCA9685, with ESP32 web control |
-| **Otto Biped Robot** | 6-servo bipedal robot with Bluetooth control, obstacle avoidance (HC-SR04), and browser-based MediaPipe hand-gesture control |
-| **RobotTimer (ESP32 BLE)** | Desk robot timer with BLE, OLED pixel-art eyes, buzzer, touch sensor, and a custom web control panel |
-| **Women Safety System (AIoT)** | AIoT-based women safety device combining sensors and connectivity for real-time alert and location tracking in emergency situations |
+- 🔧 Designing and verifying RTL modules in **Verilog**, simulating with **Verilator**
+- 💻 Primary dev environment: **VS Code**
+- 🏗️ Physical Design work using **OpenLane** and **KLayout** — synthesis, floorplanning, layout verification
+- 🐧 Working across a full **Linux-based open-source EDA flow**: OpenLane · KLayout · Verilator · Yosys · OpenROAD · Magic
+
+---
+
+### 🧩 Featured Projects
+
+<details open>
+<summary><b>⚡ Approximate MAC Unit for Image Processing</b></summary>
+<br>
+Approximate Multiply-Accumulate unit in Verilog using the Roba Multiplier (2016) architecture to cut area/power with acceptable error. Verified via custom testbenches + waveform analysis; synthesized/simulated in Vivado and Xilinx ISE.
+</details>
+
+<details>
+<summary><b>🌉 AHB to APB Bridge Design</b></summary>
+<br>
+RTL for an AMBA AHB-to-APB bridge with FSM-based control logic for protocol translation between high-speed and low-power peripherals. Verified read/write transactions and debugged timing in simulation.
+</details>
+
+<details>
+<summary><b>🔀 1×3 Router Design</b></summary>
+<br>
+Address-based packet router with arbitration and control logic in Verilog, verified through RTL simulation in Vivado.
+</details>
+
+<details>
+<summary><b>🤖 Companion Robot — PCB & Embedded Systems</b></summary>
+<br>
+Full custom PCB in KiCad with ESP32 firmware, integrating an OLED display, capacitive touch sensor, and buzzer. Modular embedded software architecture with full hardware bring-up, testing, and debugging.
+</details>
+
+<details>
+<summary><b>📡 AIoT & IoT Development</b></summary>
+<br>
+Wi-Fi based monitoring/control systems on ESP32 and ESP8266, with real-time dashboards for sensor data and cloud-connected smart automation.
+</details>
+
+<details>
+<summary><b>🕷️ Robotics Projects — Spider Robot & More</b></summary>
+<br>
+Embedded firmware integration with sensors and actuators for a companion robot, plus hardware integration and debugging for a spider-robot platform.
+</details>
+
+> 📂 More projects on GitHub — see profile links above
+
+---
+
+### 🧠 Tech Stack
+
+**HDL & RTL Design**
+<p>
+<img src="https://img.shields.io/badge/Verilog-005A9C?style=flat-square">
+<img src="https://img.shields.io/badge/SystemVerilog-1E4D8B?style=flat-square">
+<img src="https://img.shields.io/badge/FSM_Design-Moore%2FMealy-informational?style=flat-square">
+</p>
+
+**Protocols**
+<p>
+<img src="https://img.shields.io/badge/AMBA_AHB-orange?style=flat-square">
+<img src="https://img.shields.io/badge/APB-orange?style=flat-square">
+<img src="https://img.shields.io/badge/SPI-orange?style=flat-square">
+<img src="https://img.shields.io/badge/I2C-orange?style=flat-square">
+<img src="https://img.shields.io/badge/USART-orange?style=flat-square">
+</p>
+
+**EDA Tools**
+<p>
+<img src="https://img.shields.io/badge/Vivado-C00000?style=flat-square">
+<img src="https://img.shields.io/badge/Xilinx_ISE-C00000?style=flat-square">
+<img src="https://img.shields.io/badge/Quartus_Prime-6A1B9A?style=flat-square">
+<img src="https://img.shields.io/badge/Cadence_Virtuoso-00A19A?style=flat-square">
+<img src="https://img.shields.io/badge/OpenLane-2E7D32?style=flat-square">
+<img src="https://img.shields.io/badge/KLayout-2E7D32?style=flat-square">
+<img src="https://img.shields.io/badge/Verilator-2E7D32?style=flat-square">
+<img src="https://img.shields.io/badge/Yosys-2E7D32?style=flat-square">
+<img src="https://img.shields.io/badge/OpenROAD-2E7D32?style=flat-square">
+<img src="https://img.shields.io/badge/Magic-2E7D32?style=flat-square">
+</p>
+
+**Embedded, IoT & Programming**
+<p>
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white">
+<img src="https://img.shields.io/badge/ESP8266-E7352C?style=flat-square&logo=espressif&logoColor=white">
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white">
+<img src="https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
+</p>
+
+---
+
+### 🎓 Education
+
+- **B.E. Electronics & Communication Engineering** — K. Ramakrishnan College of Engineering, Tiruchirappalli (Anna University) · CGPA 7.92/10 · 2025
+- **HSC** — Eden Gardens Matric Higher Secondary School · 74.7% · 2021
+- **SSLC** — Annai Paruvathamma Matriculation School · 66.6% · 2019
+
+---
+
+### 🏅 Internships & Achievements
+
+- 🎯 Verilog Design Intern — Maven Silicon
+- 🎯 Embedded Systems Internship
+- 👥 Class Representative for 4 academic years
+- 🗣️ Organized technical idea-presentation & peer-learning sessions
+- 🎪 Coordinated department-level technical symposium events
+- 🧭 Workshops: IoT & Devices (IIT Madras), Embedded Systems, Web Development, Innovative Electronics
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=VarunPrasad07&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VarunPrasad07&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarunPrasad07&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VarunPrasad07&theme=tokyo-night&hide_border=true" alt="Activity Graph">
 </p>
 
 ---
 
-<p align="center"><i>Currently learning SystemVerilog & UVM — open to VLSI Design/Verification opportunities 🚀</i></p>
+### ⚡ Beyond the Bench
+
+🏏 Cricket &nbsp;•&nbsp; 🎬 Video editing & motion graphics &nbsp;•&nbsp; 🎮 Casual gaming
+
+---
+
+<p align="center">
+  <i>Open to RTL design, verification, and embedded systems opportunities — let's connect!</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VarunPrasad07&style=flat-square&color=2EA6DA" alt="Profile Views">
+</p>
