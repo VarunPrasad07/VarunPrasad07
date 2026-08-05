@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=2600&pause=400&color=00BFFF&center=true&vCenter=true&multiline=true&width=820&height=30&lines=RTL+Design+Engineer;Verification+Engineer;ASIC+Design+Enthusiast;FPGA+Developer;Embedded+Systems+Engineer;AIoT+Developer;Robotics+Builder;Open+Source+Hardware;Linux+User;Always+Learning" alt="Role Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=2600&pause=400&color=00BFFF&center=true&vCenter=true&multiline=false&width=600&height=60&lines=RTL+Design+Engineer;Verification+Engineer;ASIC+Design+Enthusiast;FPGA+Developer;Embedded+Systems+Engineer;AIoT+Developer;Robotics+Builder;Open+Source+Hardware;Linux+User;Always+Learning" alt="Role Typing SVG" />
 </p>
 
 <p align="center">
@@ -82,10 +82,10 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=VarunPrasad07&hide_border=true&count_private=true&show_icons=true&theme=github_dark&ring_color=00E5FF&hide_title=true" width="54%" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=VarunPrasad07&hide_border=true&count_private=true&show_icons=true&theme=github_dark&ring_color=00E5FF&hide_title=true&cache_seconds=86400" width="54%" alt="GitHub Stats"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarunPrasad07&layout=compact&hide_border=true&theme=github_dark&langs_count=8" width="42%" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarunPrasad07&layout=compact&hide_border=true&theme=github_dark&langs_count=8&cache_seconds=86400" width="42%" alt="Top Languages"/>
   </a>
 </p>
 
@@ -103,13 +103,13 @@
 
 <p align="center">
   <a href="https://github.com/VarunPrasad07">
-    <img src="https://raw.githubusercontent.com/VarunPrasad07/VarunPrasad07/output/snake.svg" alt="Contribution Snake" width="85%" />
+    <img src="https://raw.githubusercontent.com/VarunPrasad07/VarunPrasad07/output/github-snake.svg" alt="Contribution Snake" width="85%" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=VarunPrasad07&theme=onestar&no-frame=true&no-bg=true&margin-w=12&column=6" alt="Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=VarunPrasad07&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&column=6&cache_seconds=86400" alt="Trophies"/>
   </a>
 </p>
 
