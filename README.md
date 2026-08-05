@@ -78,6 +78,43 @@
 
 ---
 
+<h2 align="center">GITHUB ANALYTICS</h2>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=VarunPrasad07&hide_border=true&count_private=true&show_icons=true&theme=github_dark&ring_color=00E5FF&hide_title=true" width="54%" alt="GitHub Stats"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarunPrasad07&layout=compact&hide_border=true&theme=github_dark&langs_count=8" width="42%" alt="Top Languages"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=VarunPrasad07&theme=github-dark-blue&hide_border=true&sideLabels=00E5FF&currStreakNum=00E5FF&ring=00E5FF&fire=00BFFF" alt="GitHub Streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=VarunPrasad07&theme=gotham&hide_border=true&bg_color=0D1117&color=00E5FF&line=7C3AED&point=00E5FF&area=true" alt="Activity Graph"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/VarunPrasad07">
+    <img src="https://raw.githubusercontent.com/VarunPrasad07/VarunPrasad07/output/snake.svg" alt="Contribution Snake" width="85%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=VarunPrasad07&theme=onestar&no-frame=true&no-bg=true&margin-w=12&column=6" alt="Trophies"/>
+  </a>
+</p>
+
+---
+
 <h2 align="center">ACHIEVEMENTS</h2>
 
 <p align="center">Class Representative (4 Years)</p>
