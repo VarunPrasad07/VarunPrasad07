@@ -10,9 +10,7 @@
   <a href="https://github.com/VarunPrasad07"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/varunprasad07/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:varunssvk543@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/VarunPrasad07"><img src="https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.youtube.com/"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
-  <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://varun-porfolio-cml7.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"></a>
 </p>
 
 <p align="center">
@@ -23,24 +21,20 @@
 
 ---
 
-<!-- About -->
-
-<h2 align="center">🦠 ABOUT ME</h2>
+<h2 align="center">ABOUT ME</h2>
 <div align="center">RTL Design & Verification Engineer crafting digital hardware with Verilog & SystemVerilog.</div>
 <div align="center">Silicon tinkerer, embedded explorer, and relentless open-source + Linux enthusiast.</div>
 <div align="center">Currently shaping the RTL-to-GDSII flow at Kiwistron.</div>
 
 ---
 
-|🕹️ CURRENT FOCUS|🕹️ KEY STACK|
+|CURRENT FOCUS|KEY STACK|
 |---|---|
 |<p align="left">**RTL Design** &nbsp;<br>**Verilog / SystemVerilog**<br>**Physical Design Flow**<br>**OpenLane + OpenROAD**<br>**UVM Verification**<br>**Embedded Linux**<br>**KiCad PCB Design**<br>**Robotics & AIoT**</p>|<p align="left">`Verilog` `SystemVerilog` `Verilator` `Yosys` `Vivado` `ISE`<br>`OpenLane` `OpenROAD` `KLayout` `Magic` `Quartus`<br>`C` `C++` `Python` `KiCad` `ESP32` `Arduino`<br>`Git` `Linux` `VS Code`</p>|
 
 ---
 
-<!-- Tech Stack -->
-
-<h2 align="center">🌀 TECH STACK</h2>
+<h2 align="center">TECH STACK</h2>
 
 |  |  |
 |:---|:---|
@@ -57,11 +51,9 @@
 
 ---
 
-<!-- Featured Projects -->
+<h2 align="center">FEATURED PROJECTS</h2>
 
-<h2 align="center">🚀 FEATURED PROJECTS</h2>
-
-<p align="center">💾 Open Source Hardware & Silicon</p>
+<p align="center">Open Source Hardware & Silicon</p>
 
 ```
  ██╗   ██╗ █████╗ ██████╗ ██╗   ██╗███╗   ██╗
@@ -72,75 +64,32 @@
    ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝
 ```
 
-|🦾 PROJECT|🛠️ TECH STACK|📌 STATUS|
+|PROJECT|TECH STACK|STATUS|
 |:---:|---|:---:|
 | **CPU Design** <br/>`RTL processor core` | <img src="https://img.shields.io/badge/Verilog-00599C?style=flat-square&logo=linux&logoColor=white" height="22"/> | <img src="https://img.shields.io/badge/DONE-7C3AED?style=flat-square" height="22"/> |
 | **RISC-V Processor** <br/>`open standard ISA core` | <img src="https://img.shields.io/badge/Verilog-00599C?style=flat-square&logo=linux&logoColor=white" height="22"/> | <img src="https://img.shields.io/badge/DONE-7C3AED?style=flat-square" height="22"/> |
 | **AHB → APB Bridge** <br/>`AMBA protocol bridge` | <img src="https://img.shields.io/badge/Verilog-00599C?style=flat-square&logo=linux&logoColor=white" height="22"/> | <img src="https://img.shields.io/badge/DONE-7C3AED?style=flat-square" height="22"/> |
 | **Approximate MAC Unit** <br/>`Roba multiplier (2016)` | <img src="https://img.shields.io/badge/Verilog-7C3AED?style=flat-square&logo=linux&logoColor=white" height="22"/> | <img src="https://img.shields.io/badge/DONE-7C3AED?style=flat-square" height="22"/> |
-| **Router 1×3** <br/>`address-based packet router` | <img src="https://img.shields.io/badge/Verilog-00599C?style=flat-square&logo=linux&logoColor=white" height="22"/> | <img src="https://img.shields.io/badge/DONE-00E5FF?style=flat-square" height="22"/> |
-| **Companion Robot** <br/>`PCB + firmware (ESP32)` | <img src="https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white" height="22"/> <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" height="22"/> | <img src="https://img.shields.io/badge/DONE-00BFFF?style=flat-square" height="22"/> |
-| **Spider Robot** <br/>`multi-servo platform` | <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" height="22"/> | <img src="https://img.shields.io/badge/DONE-00E5FF?style=flat-square" height="22"/> |
-| **IoT Dashboard** <br/>`real-time monitoring` | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="22"/> <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logoColor=white" height="22"/> | <img src="https://img.shields.io/badge/DONE-00BFFF?style=flat-square" height="22"/> |
+| **Router 1×3** <br/>`address-based packet router` | <img src="https://img.shields.io/badge/Verilog-00599C?style=flat-square&logo=linux&logoColor=white" height="22"/> | <img src="https://img.shields.io/badge/DONE-7C3AED?style=flat-square" height="22"/> |
+| **Companion Robot** <br/>`PCB + firmware (ESP32)` | <img src="https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white" height="22"/> <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" height="22"/> | <img src="https://img.shields.io/badge/DONE-7C3AED?style=flat-square" height="22"/> |
+| **Spider Robot** <br/>`multi-servo platform` | <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" height="22"/> | <img src="https://img.shields.io/badge/DONE-7C3AED?style=flat-square" height="22"/> |
+| **IoT Dashboard** <br/>`real-time monitoring` | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="22"/> <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logoColor=white" height="22"/> | <img src="https://img.shields.io/badge/DONE-7C3AED?style=flat-square" height="22"/> |
 | **Portfolio Website** <br/>`personal branding` | <img src="https://img.shields.io/badge/HTML+CSS-E34F26?style=flat-square&logo=html5&logoColor=white" height="22"/> | <img src="https://img.shields.io/badge/LIVE-00E5FF?style=flat-square" height="22"/> |
 
 ---
 
-<!-- GitHub Analytics -->
+<h2 align="center">ACHIEVEMENTS</h2>
 
-<h2 align="center">📊 GITHUB ANALYTICS</h2>
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=VarunPrasad07&hide_border=true&count_private=true&show_icons=true&theme=github_dark&ring_color=00E5FF&hide_title=true" width="54%" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarunPrasad07&layout=compact&hide_border=true&theme=github_dark&langs_count=8" width="42%" alt="Top Languages"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=VarunPrasad07&theme=github-dark-blue&hide_border=true&sideLabels=00E5FF&currStreakNum=00E5FF&ring=00E5FF&fire=00BFFF" alt="GitHub Streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=VarunPrasad07&theme=gotham&hide_border=true&bg_color=0D1117&color=00E5FF&line=7C3AED&point=00E5FF&area=true" alt="Activity Graph"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/VarunPrasad07">
-    <img src="https://raw.githubusercontent.com/VarunPrasad07/VarunPrasad07/output/snake.svg" alt="Contribution Snake" width="85%" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=VarunPrasad07&theme=onestar&no-frame=true&no-bg=true&margin-w=12&column=6" alt="Trophies"/>
-  </a>
-</p>
+<p align="center">Class Representative (4 Years)</p>
+<p align="center">Organized Technical Symposiums</p>
+<p align="center">IIT Madras IoT & Devices Workshop</p>
+<p align="center">Embedded Systems & Innovative Electronics Workshops</p>
 
 ---
 
-<!-- Achievements -->
+<h2 align="center">CERTIFICATIONS</h2>
 
-<h2 align="center">🏆 ACHIEVEMENTS</h2>
-
-<p align="center">🏅 Class Representative (4 Years)</p>
-<p align="center">🎯 Organized Technical Symposiums</p>
-<p align="center">🧠 IIT Madras IoT & Devices Workshop</p>
-<p align="center">🔧 Embedded Systems & Innovative Electronics Workshops</p>
-
----
-
-<!-- Certifications -->
-
-<h2 align="center">🎓 CERTIFICATIONS</h2>
-
-|💡 CERTIFICATION|🏛️ PROVIDER|📜 STATUS|
+|CERTIFICATION|PROVIDER|STATUS|
 |:---:|:---:|:---:|
 | **IoT & Devices Workshop** | **IIT Madras** | <img src="https://img.shields.io/badge/COMPLETED-00E5FF?style=flat-square" height="20"/> |
 | **Embedded Systems Workshop** | **Workshop** | <img src="https://img.shields.io/badge/COMPLETED-00BFFF?style=flat-square" height="20"/> |
@@ -149,9 +98,7 @@
 
 ---
 
-<!-- Experience Timeline -->
-
-<h2 align="center">📜 EXPERIENCE</h2>
+<h2 align="center">EXPERIENCE</h2>
 
 ```
     VERILOG DESIGN & VERIFICATION ENGINEER   ━━  KIWISTRON  ▪  Feb 2026 – Present
@@ -174,9 +121,7 @@
 
 ---
 
-<!-- Connect -->
-
-<h2 align="center">🔗 LET'S CONNECT</h2>
+<h2 align="center">LET'S CONNECT</h2>
 
 <p align="center">Let's build the future of silicon, one transistor at a time.</p>
 
@@ -184,25 +129,21 @@
   <a href="https://github.com/VarunPrasad07"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/varunprasad07/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:varunssvk543@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/VarunPrasad07"><img src="https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"></a>
+  <a href="https://varun-porfolio-cml7.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"></a>
 </p>
 
-<p align="center">📬 Always open to collaborations and new opportunities.</p>
+<p align="center">Always open to collaborations and new opportunities.</p>
 
 ---
 
-<!-- Random Quote -->
-
-<h2 align="center">💡 ENGINEERING INSIGHT</h2>
+<h2 align="center">ENGINEERING INSIGHT</h2>
 
 <p align="center">"Talk is cheap. Show me the code." — Linus Torvalds</p>
 
-<p align="center">⚙️ "Clean architecture is the foundation of great silicon."</p>
+<p align="center">"Clean architecture is the foundation of great silicon."</p>
 
 ---
 
-<!-- Footer -->
+<p align="center">© 2026 • Crafted with Verilog</p>
 
-<p align="center">© 2026 • Crafted with ❤️ and a lot of Verilog</p>
-
-<p align="center">Made in India 🇮🇳</p>
+<p align="center">Made in India</p>
