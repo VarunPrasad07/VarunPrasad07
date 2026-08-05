@@ -17,8 +17,6 @@
   <img src="https://komarev.com/ghpvc/?username=VarunPrasad07&style=for-the-badge&color=00E5FF&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
 
-<hr/>
-
 ---
 
 <h2 align="center">ABOUT ME</h2>
