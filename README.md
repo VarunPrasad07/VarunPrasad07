@@ -1,6 +1,8 @@
+<h1 align="center">
+  VARUN PRASAD S
+</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=42&duration=2800&pause=1000&color=00E5FF&center=true&vCenter=true&multiline=true&width=800&height=60&lines=%E2%9A%A1+VARUN+PRASAD+S" alt="Name Typing SVG" />
-  <br/>
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=2600&pause=400&color=00BFFF&center=true&vCenter=true&multiline=true&width=820&height=30&lines=RTL+Design+Engineer;Verification+Engineer;ASIC+Design+Enthusiast;FPGA+Developer;Embedded+Systems+Engineer;AIoT+Developer;Robotics+Builder;Open+Source+Hardware;Linux+User;Always+Learning" alt="Role Typing SVG" />
 </p>
 
@@ -17,33 +19,16 @@
   <img src="https://komarev.com/ghpvc/?username=VarunPrasad07&style=for-the-badge&color=00E5FF&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
 
-**<h1 align="center">⚡ SELF-DRIVING SEMICONDUCTOR PORTFOLIO ⚡</h1>**
-
-**<p align="center">RTL DESIGN • VERIFICATION • PHYSICAL DESIGN • EMBEDDED SYSTEMS</p>**
-
-**<p align="center">Turning hardware dreams into silicon reality — one RTL block at a time.</p>**
-
 <hr/>
-
----
-
-:**if:user_type==premium
-**:👋 Intro React
----
-<!-- Intro -->
-
-<div align="center">
-  <img src="https://github.com/VarunPrasad07/VarunPrasad07/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
-</div>
 
 ---
 
 <!-- About -->
 
-**<h2 align="center">🦠 ABOUT ME</h2>**
-**<div align="center">RTL Design & Verification Engineer crafting digital hardware with Verilog & SystemVerilog.</div>**
-**<div align="center">Silicon tinkerer, embedded explorer, and relentless open-source + Linux enthusiast.</div>**
-**<div align="center">Currently shaping the RTL-to-GDSII flow at Kiwistron.</div>**
+<h2 align="center">🦠 ABOUT ME</h2>
+<div align="center">RTL Design & Verification Engineer crafting digital hardware with Verilog & SystemVerilog.</div>
+<div align="center">Silicon tinkerer, embedded explorer, and relentless open-source + Linux enthusiast.</div>
+<div align="center">Currently shaping the RTL-to-GDSII flow at Kiwistron.</div>
 
 ---
 
@@ -55,7 +40,7 @@
 
 <!-- Tech Stack -->
 
-**<h2 align="center">🌀 TECH STACK</h2>**
+<h2 align="center">🌀 TECH STACK</h2>
 
 |  |  |
 |:---|:---|
@@ -74,9 +59,9 @@
 
 <!-- Featured Projects -->
 
-**<h2 align="center">🚀 FEATURED PROJECTS</h2>**
+<h2 align="center">🚀 FEATURED PROJECTS</h2>
 
-**<p align="center">💾 Open Source Hardware & Silicon</p>**
+<p align="center">💾 Open Source Hardware & Silicon</p>
 
 ```
  ██╗   ██╗ █████╗ ██████╗ ██╗   ██╗███╗   ██╗
@@ -103,7 +88,7 @@
 
 <!-- GitHub Analytics -->
 
-**<h2 align="center">📊 GITHUB ANALYTICS</h2>**
+<h2 align="center">📊 GITHUB ANALYTICS</h2>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -127,8 +112,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Contribution Calendar" />
+  <a href="https://github.com/VarunPrasad07">
+    <img src="https://raw.githubusercontent.com/VarunPrasad07/VarunPrasad07/output/snake.svg" alt="Contribution Snake" width="85%" />
   </a>
 </p>
 
@@ -142,18 +127,18 @@
 
 <!-- Achievements -->
 
-**<h2 align="center">🏆 ACHIEVEMENTS</h2>**
+<h2 align="center">🏆 ACHIEVEMENTS</h2>
 
-**<p align="center">🏅 Class Representative (4 Years)</p>**
-**<p align="center">🎯 Organized Technical Symposiums</p>**
-**<p align="center">🧠 IIT Madras IoT & Devices Workshop</p>**
-**<p align="center">🔧 Embedded Systems & Innovative Electronics Workshops</p>**
+<p align="center">🏅 Class Representative (4 Years)</p>
+<p align="center">🎯 Organized Technical Symposiums</p>
+<p align="center">🧠 IIT Madras IoT & Devices Workshop</p>
+<p align="center">🔧 Embedded Systems & Innovative Electronics Workshops</p>
 
 ---
 
 <!-- Certifications -->
 
-**<h2 align="center">🎓 CERTIFICATIONS</h2>**
+<h2 align="center">🎓 CERTIFICATIONS</h2>
 
 |💡 CERTIFICATION|🏛️ PROVIDER|📜 STATUS|
 |:---:|:---:|:---:|
@@ -166,7 +151,7 @@
 
 <!-- Experience Timeline -->
 
-**<h2 align="center">📜 EXPERIENCE</h2>**
+<h2 align="center">📜 EXPERIENCE</h2>
 
 ```
     VERILOG DESIGN & VERIFICATION ENGINEER   ━━  KIWISTRON  ▪  Feb 2026 – Present
@@ -191,9 +176,9 @@
 
 <!-- Connect -->
 
-**<h2 align="center">🔗 LET'S CONNECT</h2>**
+<h2 align="center">🔗 LET'S CONNECT</h2>
 
-**<p align="center">Let's build the future of silicon, one transistor at a time.</p>**
+<p align="center">Let's build the future of silicon, one transistor at a time.</p>
 
 <p align="center">
   <a href="https://github.com/VarunPrasad07"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
@@ -202,24 +187,22 @@
   <a href="https://github.com/VarunPrasad07"><img src="https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"></a>
 </p>
 
-**<p align="center">📬 Always open to collaborations and new opportunities.</p>**
+<p align="center">📬 Always open to collaborations and new opportunities.</p>
 
 ---
 
 <!-- Random Quote -->
 
-**<h2 align="center">💡 ENGINEERING INSIGHT</h2>**
+<h2 align="center">💡 ENGINEERING INSIGHT</h2>
 
-**<p align="center">"Talk is cheap. Show me the code." — Linus Torvalds</p>**
+<p align="center">"Talk is cheap. Show me the code." — Linus Torvalds</p>
 
-**<p align="center">⚙️ "Clean architecture is the foundation of great silicon."</p>**
+<p align="center">⚙️ "Clean architecture is the foundation of great silicon."</p>
 
 ---
 
 <!-- Footer -->
 
-<img src="https://raw.githubusercontent.com/VarunPrasad07/VarunPrasad07/main/images/footer.svg" width="100%" />
+<p align="center">© 2026 • Crafted with ❤️ and a lot of Verilog</p>
 
-**<p align="center">© 2026 • Crafted with ❤️ and a lot of Verilog</p>**
-
-**<p align="center">Made in India 🇮🇳</p>**
+<p align="center">Made in India 🇮🇳</p>
