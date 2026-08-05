@@ -36,7 +36,7 @@
 
 |  |  |
 |:---|:---|
-| **HDL** | <img src="https://img.shields.io/badge/Verilog-00599C?style=for-the-badge&logo=linux&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/SystemVerilog-0ABF53?style=for-the-badge&logo=linux&logoColor=white" height="25"/> |
+| **HDL** | <img src="https://img.shields.io/badge/Verilog-00599C?style=for-the-badge" height="25"/> <img src="https://img.shields.io/badge/SystemVerilog-0ABF53?style=for-the-badge" height="25"/> |
 | **Programming** | <img src="https://skillicons.dev/icons?i=c,cpp,python" alt="Languages"/> |
 | **EDA Tools** | <img src="https://img.shields.io/badge/Verilator-00E5FF?style=for-the-badge&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/Vivado-3399FF?style=for-the-badge&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/Yosys-F9AB00?style=for-the-badge&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/Quartus-E10098?style=for-the-badge&logoColor=white" height="25"/> |
 | **Physical Design** | <img src="https://img.shields.io/badge/OpenLane-7C3AED?style=for-the-badge&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/OpenROAD-00BFFF?style=for-the-badge&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/KLayout-SiZAM-00E5FF?style=for-the-badge&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/Magic-FFFFFF?style=for-the-badge&labelColor=0D1117&color=0D1117&logo=magic&logoColor=white" height="25"/> |
@@ -64,10 +64,10 @@
 
 |PROJECT|TECH STACK|STATUS|
 |:---:|---|:---:|
-| **CPU Design** <br/>`RTL processor core` | <img src="https://img.shields.io/badge/Verilog-00599C?style=flat-square&logo=linux&logoColor=white" height="22"/> | <img src="https://img.shields.io/badge/DONE-7C3AED?style=flat-square" height="22"/> |
-| **AHB → APB Bridge** <br/>`AMBA protocol bridge` | <img src="https://img.shields.io/badge/Verilog-00599C?style=flat-square&logo=linux&logoColor=white" height="22"/> | <img src="https://img.shields.io/badge/DONE-7C3AED?style=flat-square" height="22"/> |
-| **Approximate MAC Unit** <br/>`Roba multiplier (2016)` | <img src="https://img.shields.io/badge/Verilog-7C3AED?style=flat-square&logo=linux&logoColor=white" height="22"/> | <img src="https://img.shields.io/badge/DONE-7C3AED?style=flat-square" height="22"/> |
-| **Router 1×3** <br/>`address-based packet router` | <img src="https://img.shields.io/badge/Verilog-00599C?style=flat-square&logo=linux&logoColor=white" height="22"/> | <img src="https://img.shields.io/badge/DONE-7C3AED?style=flat-square" height="22"/> |
+| **CPU Design** <br/>`RTL processor core` | <img src="https://img.shields.io/badge/Verilog-00599C?style=flat-square" height="22"/> | <img src="https://img.shields.io/badge/DONE-7C3AED?style=flat-square" height="22"/> |
+| **AHB → APB Bridge** <br/>`AMBA protocol bridge` | <img src="https://img.shields.io/badge/Verilog-00599C?style=flat-square" height="22"/> | <img src="https://img.shields.io/badge/DONE-7C3AED?style=flat-square" height="22"/> |
+| **Approximate MAC Unit** <br/>`Roba multiplier (2016)` | <img src="https://img.shields.io/badge/Verilog-7C3AED?style=flat-square" height="22"/> | <img src="https://img.shields.io/badge/DONE-7C3AED?style=flat-square" height="22"/> |
+| **Router 1×3** <br/>`address-based packet router` | <img src="https://img.shields.io/badge/Verilog-00599C?style=flat-square" height="22"/> | <img src="https://img.shields.io/badge/DONE-7C3AED?style=flat-square" height="22"/> |
 | **Companion Robot** <br/>`PCB + firmware (ESP32)` | <img src="https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white" height="22"/> <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" height="22"/> | <img src="https://img.shields.io/badge/DONE-7C3AED?style=flat-square" height="22"/> |
 | **Spider Robot** <br/>`multi-servo platform` | <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" height="22"/> | <img src="https://img.shields.io/badge/DONE-7C3AED?style=flat-square" height="22"/> |
 | **IoT Dashboard** <br/>`real-time monitoring` | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="22"/> <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logoColor=white" height="22"/> | <img src="https://img.shields.io/badge/DONE-7C3AED?style=flat-square" height="22"/> |
