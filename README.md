@@ -65,14 +65,13 @@
 |PROJECT|TECH STACK|STATUS|
 |:---:|---|:---:|
 | **CPU Design** <br/>`RTL processor core` | <img src="https://img.shields.io/badge/Verilog-00599C?style=flat-square&logo=linux&logoColor=white" height="22"/> | <img src="https://img.shields.io/badge/DONE-7C3AED?style=flat-square" height="22"/> |
-| **RISC-V Processor** <br/>`open standard ISA core` | <img src="https://img.shields.io/badge/Verilog-00599C?style=flat-square&logo=linux&logoColor=white" height="22"/> | <img src="https://img.shields.io/badge/DONE-7C3AED?style=flat-square" height="22"/> |
 | **AHB → APB Bridge** <br/>`AMBA protocol bridge` | <img src="https://img.shields.io/badge/Verilog-00599C?style=flat-square&logo=linux&logoColor=white" height="22"/> | <img src="https://img.shields.io/badge/DONE-7C3AED?style=flat-square" height="22"/> |
 | **Approximate MAC Unit** <br/>`Roba multiplier (2016)` | <img src="https://img.shields.io/badge/Verilog-7C3AED?style=flat-square&logo=linux&logoColor=white" height="22"/> | <img src="https://img.shields.io/badge/DONE-7C3AED?style=flat-square" height="22"/> |
 | **Router 1×3** <br/>`address-based packet router` | <img src="https://img.shields.io/badge/Verilog-00599C?style=flat-square&logo=linux&logoColor=white" height="22"/> | <img src="https://img.shields.io/badge/DONE-7C3AED?style=flat-square" height="22"/> |
 | **Companion Robot** <br/>`PCB + firmware (ESP32)` | <img src="https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white" height="22"/> <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" height="22"/> | <img src="https://img.shields.io/badge/DONE-7C3AED?style=flat-square" height="22"/> |
 | **Spider Robot** <br/>`multi-servo platform` | <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" height="22"/> | <img src="https://img.shields.io/badge/DONE-7C3AED?style=flat-square" height="22"/> |
 | **IoT Dashboard** <br/>`real-time monitoring` | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="22"/> <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logoColor=white" height="22"/> | <img src="https://img.shields.io/badge/DONE-7C3AED?style=flat-square" height="22"/> |
-| **Portfolio Website** <br/>`personal branding` | <img src="https://img.shields.io/badge/HTML+CSS-E34F26?style=flat-square&logo=html5&logoColor=white" height="22"/> | <img src="https://img.shields.io/badge/LIVE-00E5FF?style=flat-square" height="22"/> |
+| **Portfolio Website** <br/>`personal branding` | <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" height="22"/> | <img src="https://img.shields.io/badge/LIVE-00E5FF?style=flat-square" height="22"/> |
 
 ---
 
@@ -83,7 +82,7 @@
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=VarunPrasad07&hide_border=true&count_private=true&show_icons=true&theme=github_dark&ring_color=00E5FF&hide_title=true" width="54%" alt="GitHub Stats"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VarunPrasad07&layout=compact&hide_border=true&theme=github_dark&langs_count=8" width="42%" alt="Top Languages"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VarunPrasad07&layout=compact&hide_border=true&theme=github_dark&langs_count=8&hide=html,css" width="42%" alt="Top Languages"/>
   </a>
 </p>
 
