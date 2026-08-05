@@ -82,10 +82,10 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=VarunPrasad07&hide_border=true&count_private=true&show_icons=true&theme=github_dark&ring_color=00E5FF&hide_title=true&cache_seconds=86400" width="54%" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=VarunPrasad07&hide_border=true&count_private=true&show_icons=true&theme=github_dark&ring_color=00E5FF&hide_title=true" width="54%" alt="GitHub Stats"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarunPrasad07&layout=compact&hide_border=true&theme=github_dark&langs_count=8&cache_seconds=86400" width="42%" alt="Top Languages"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VarunPrasad07&layout=compact&hide_border=true&theme=github_dark&langs_count=8" width="42%" alt="Top Languages"/>
   </a>
 </p>
 
@@ -109,7 +109,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=VarunPrasad07&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&column=6&cache_seconds=86400" alt="Trophies"/>
+    <img src="https://github-trophies.vercel.app/?username=VarunPrasad07&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&column=6" alt="Trophies"/>
   </a>
 </p>
 
