@@ -1,17 +1,27 @@
 <h1 align="center">Varun Prasad S</h1>
-<h3 align="center">RTL Design & Verification Engineer | Embedded Systems & IoT Developer</h3>
+
+<p align="center">
+  <a href="https://demo.anuraghazra.com?tab=readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?center=true&vCenter=true&width=700&height=45&duration=3500&pause=800&color=00BFFF&size=22&lines=RTL+Design+%26+Verification+Engineer;Embedded+Systems+%26+IoT+Developer;Open-Source+EDA+%7C+OpenLane%2C+Yosys%2C+OpenROAD%2C+Verilator;Verilog+%7C+SystemVerilog+%7C+FSM+%7C+AMBA+AHB%2FAPB+%7C+KiCad" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/varunprasad07/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:varunssvk543@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://github.com/VarunPrasad07"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="tel:+919566622885"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VarunPrasad07&style=flat-square&color=00BFFF&label=Profile+Views" alt="Profile Views">
 </p>
 
 ---
 
 ### Professional Summary
 
-RTL Design and Verification Engineer with hands-on experience in digital design, functional verification, and physical design flows. Currently working at Kiwistron on end-to-end RTL-to-GDSII implementation using open-source EDA tools. Strong foundation in Verilog, SystemVerilog, and FSM-based design methodologies. Complementary expertise in embedded systems, IoT development, and PCB design.
+Entry-level **VLSI Design & Verification Engineer** with strong hands-on experience in RTL design using **Verilog/SystemVerilog** and protocol-based design. Proficient in FSM-based control logic, combinational and sequential circuit design, and simulation-driven debugging. Currently working at **Kiwistron** on end-to-end **RTL-to-GDSII** implementation using open-source EDA tools. Also brings practical experience in embedded systems, IoT, AIoT, and PCB design (KiCad) from professional project work. Open to roles in **RTL Design, Verification, and Physical Design** in a semiconductor design environment.
 
 ---
 
@@ -20,8 +30,8 @@ RTL Design and Verification Engineer with hands-on experience in digital design,
 **Kiwistron** — RTL Design & Verification Engineer  
 *February 2026 – Present*
 
-- Design and verify RTL modules in Verilog; simulation and debugging with Verilator
-- Execute physical design flow: synthesis, floorplanning, placement, routing, and layout verification using OpenLane and KLayout
+- Design and verify RTL modules in Verilog; simulation and debugging with **Verilator**
+- Execute physical design flow — synthesis, floorplanning, placement, routing, and layout verification using **OpenLane** and **KLayout**
 - Work within a Linux-based open-source EDA ecosystem: OpenLane, Yosys, OpenROAD, Magic, Verilator
 - Primary development environment: VS Code on Linux
 
@@ -30,30 +40,36 @@ RTL Design and Verification Engineer with hands-on experience in digital design,
 ### Technical Competencies
 
 #### HDL & Digital Design
+
 | Category | Technologies |
 |----------|--------------|
-| **Hardware Description** | Verilog, SystemVerilog |
-| **Design Methodologies** | FSM Design (Moore/Mealy), Synchronous/Asynchronous Design, CDC Handling |
-| **Verification** | Testbench Development, Functional Coverage, Assertion-Based Verification (SVA) |
+| **HDL** | Verilog, SystemVerilog |
+| **Design Methodologies** | FSM Design (Moore/Mealy), Combinational & Sequential Logic, Synchronous/Asynchronous Design, CDC Handling, Pipelining Basics, Blocking vs Non-Blocking Assignments, Reset Strategies |
+| **Verification** | Testbench Development, Functional Coverage, Assertion-Based Verification (SVA), Waveform-Based Debugging |
 
 #### Protocols & Interfaces
-AMBA AHB, APB, SPI, I2C, UART/USART, AXI (basics)
+
+AMBA AHB, APB, AXI (basics), SPI, I2C, UART/USART, GPIO, PWM
 
 #### EDA Toolchain
+
 | Domain | Tools |
 |--------|-------|
 | **Simulation** | Verilator, Vivado Simulator, Xilinx ISE |
 | **Synthesis** | Vivado, Yosys, Quartus Prime |
 | **Physical Design** | OpenLane, OpenROAD, KLayout, Magic |
 | **Layout & Signoff** | KLayout (DRC/LVS), Magic |
+| **Custom Design** | Cadence Virtuoso (basic) |
 
 #### Embedded & Software
+
 | Category | Technologies |
 |----------|--------------|
 | **MCU/SoC** | ESP32, ESP8266, Arduino |
-| **PCB Design** | KiCad (schematic capture, layout, library management) |
+| **PCB Design** | KiCad (schematic capture, layout, library management, Gerber generation, DRC/ERC) |
+| **IoT & AIoT** | MQTT, Wi-Fi, Sensor Integration, Real-time Dashboards |
 | **Languages** | C, C++, Python |
-| **Environment** | Linux (daily driver), Git, VS Code |
+| **Environment & Tools** | Linux (daily driver), Git, GitHub, VS Code, CorelDraw |
 
 ---
 
@@ -61,10 +77,10 @@ AMBA AHB, APB, SPI, I2C, UART/USART, AXI (basics)
 
 #### Approximate MAC Unit for Image Processing
 *Verilog, Vivado, Xilinx ISE*  
-Implemented an approximate multiply-accumulate unit based on the Roba Multiplier (2016) architecture, achieving reduced area and power consumption with bounded error margins. Developed directed and constrained-random testbenches; performed timing and power analysis post-synthesis.
+Implemented an approximate multiply-accumulate unit based on the **Roba Multiplier (2016)** architecture, achieving reduced area and power consumption with bounded error margins. Developed directed and constrained-random testbenches; performed timing and power analysis post-synthesis.
 
 #### AMBA AHB-to-APB Bridge
-*Verilog, Vivado*  
+*Verilog, Xilinx ISE*  
 Designed a protocol bridge translating high-performance AHB transactions to low-power APB peripheral accesses. Implemented FSM-based control logic with support for wait states, error responses, and burst handling. Verified read/write sequences and corner-case timing through functional simulation.
 
 #### 1×3 Address-Based Router
@@ -73,7 +89,7 @@ Parameterized packet router with round-robin arbitration and address-decoding lo
 
 #### Companion Robot — Embedded Hardware & Firmware
 *KiCad, ESP32, C/C++*  
-End-to-end development of a custom PCB integrating ESP32, OLED display, capacitive touch sensor, and audio feedback. Designed schematic and 4-layer layout in KiCad; developed modular firmware with display drivers, touch handling, and power management.
+End-to-end development of a custom PCB integrating ESP32, OLED display, capacitive touch sensor, and audio feedback. Designed schematic and 4-layer layout in KiCad; developed modular firmware with display drivers, touch handling, and power management. Performed PCB testing, debugging, and hardware validation.
 
 #### AIoT & IoT Systems
 *ESP32/ESP8266, MQTT, Cloud Dashboards*  
@@ -81,7 +97,11 @@ Wi-Fi enabled sensor nodes with real-time monitoring dashboards. Implemented OTA
 
 #### Robotics Integration
 *Embedded C, Sensor Fusion, Actuator Control*  
-Firmware for multi-servo spider robot and companion robot platforms. Integrated IMU, proximity, and environmental sensors with real-time control loops.
+Firmware for a multi-servo spider robot and companion robot platforms. Integrated IMU, proximity, and environmental sensors with real-time control loops.
+
+#### Technical Documentation
+*Documentation, APIs, User Guides*  
+Authored technical documentation, user guides, API references, and hardware setup manuals; produced technical blogs and product documentation to support user adoption.
 
 ---
 
@@ -104,11 +124,12 @@ Annai Paruvathamma Matriculation School | *66.6%* | *2019*
 **Verilog Design Intern** — Maven Silicon  
 RTL coding, simulation, and basic synthesis flows for digital IP blocks.
 
-**Embedded Systems Intern** — Firmware development on microcontroller platforms, peripheral interfacing, and debugging.
+**Embedded Systems Intern**  
+Firmware development on microcontroller platforms, peripheral interfacing, and debugging.
 
 ---
 
-### Leadership & Activities
+### Achievements & Activities
 
 - Class Representative (4 consecutive academic years)
 - Organized technical symposiums, peer-learning sessions, and idea-presentation events
@@ -142,10 +163,14 @@ RTL coding, simulation, and basic synthesis flows for digital IP blocks.
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VarunPrasad07&style=flat-square&color=0077B5&label=Profile+Views" alt="Profile Views">
-</p>
+### Hobbies
+
+- Playing cricket
+- Video editing and basic motion graphics
+- Casual gaming
+
+---
 
 <p align="center">
-  <strong>Open to opportunities in RTL Design, Verification, and Physical Design — let's connect.</strong>
+  <img src="https://readme-typing-svg.demolab.com/?center=true&vCenter=true&width=600&height=45&duration=4000&pause=1000&color=FFFFFF&size=18&lines=Open+to+opportunities+in+RTL+Design%2C+Verification+%26+Physical+Design;Let%27s+connect!+varunssvk543%40gmail.com" alt="Footer Typing SVG" />
 </p>
