@@ -1,0 +1,32 @@
+name: Generate Dino
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate Dino
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: VarunPrasad07
+          outputs: |
+            dist/github-dino.svg?type=dino
+            dist/github-dino-dark.svg?type=dino&palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Deploy to output branch
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch: output
+          folder: dist
