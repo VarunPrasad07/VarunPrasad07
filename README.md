@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=2600&pause=400&color=00BFFF&center=true&vCenter=true&multiline=false&width=600&height=60&lines=RTL+Design+Engineer;Verification+Engineer;ASIC+Design+Enthusiast;FPGA+Developer;Embedded+Systems+Engineer;AIoT+Developer;Robotics+Builder;Open+Source+Hardware;Linux+User;Always+Learning" alt="Role Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=2600&pause=400&color=00BFFF&center=true&vCenter=true&multiline=false&width=600&height=60&lines=RTL+Design+%26+Verification+Engineer;Embedded+Systems+Engineer;PCB+Designer;FPGA+Developer;ASIC+Design+Enthusiast;Robotics+Builder;Open+Source+Hardware;Linux+User;Always+Learning" alt="Role Typing SVG" />
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@
 
 |CURRENT FOCUS|KEY STACK|
 |---|---|
-|<p align="left">**RTL Design** &nbsp;<br>**Verilog / SystemVerilog**<br>**Physical Design Flow**<br>**OpenLane + OpenROAD**<br>**UVM Verification**<br>**Embedded Linux**<br>**KiCad PCB Design**<br>**Robotics & AIoT**</p>|<p align="left">`Verilog` `SystemVerilog` `Verilator` `Yosys` `Vivado` `ISE`<br>`OpenLane` `OpenROAD` `KLayout` `Magic` `Quartus`<br>`C` `C++` `Python` `KiCad` `ESP32` `Arduino`<br>`Git` `Linux` `VS Code`</p>|
+|<p align="left">**RTL Design** &nbsp;<br>**Verilog / SystemVerilog**<br>**Physical Design Flow**<br>**OpenLane + OpenROAD**<br>**UVM Verification**<br>**Embedded Linux**<br>**KiCad PCB Design**<br>**Robotics**</p>|<p align="left">`Verilog` `SystemVerilog` `Verilator` `Yosys` `Vivado` `ISE`<br>`OpenLane` `OpenROAD` `KLayout` `Magic` `Quartus`<br>`C` `C++` `Python` `KiCad` `ESP32` `Arduino`<br>`Git` `Linux` `VS Code`</p>|
 
 ---
 
@@ -45,7 +45,7 @@
 | **PCB** | <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" height="25"/> |
 | **Operating Systems** | <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="25"/> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="25"/> |
 | **Version Control** | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="25"/> |
-| **Cloud & Tools** | <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/AI%20Tools-00E5FF?style=for-the-badge&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="25"/> |
+| **Cloud & Tools** | <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="25"/> |
 
 ---
 
@@ -54,24 +54,22 @@
 <p align="center">Open Source Hardware & Silicon</p>
 
 ```
- ██╗   ██╗ █████╗ ██████╗ ██╗   ██╗███╗   ██╗
- ██║   ██║██╔══██╗██╔══██╗██║   ██║████╗  ██║
- ██║   ██║███████║██████╔╝██║   ██║██╔██╗ ██║
- ╚██╗ ██╔╝██╔══██║██╔══██╗██║   ██║██║╚██╗██║
-  ╚████╔╝ ██║  ██║██║  ██║╚██████╔╝██║ ╚████║
-   ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝
+  ██╗   ██╗ █████╗ ██████╗ ██╗   ██╗███╗   ██╗
+  ██║   ██║██╔══██╗██╔══██╗██║   ██║████╗  ██║
+  ██║   ██║███████║██████╔╝██║   ██║██╔██╗ ██║
+  ╚██╗ ██╔╝██╔══██║██╔══██╗██║   ██║██║╚██╗██║
+   ╚████╔╝ ██║  ██║██║  ██║╚██████╔╝██║ ╚████║
+    ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝
 ```
 
 |PROJECT|TECH STACK|STATUS|
 |:---:|---|:---:|
 | **CPU Design** <br/>`RTL processor core` | <img src="https://img.shields.io/badge/Verilog-00599C?style=flat-square" height="22"/> | <img src="https://img.shields.io/badge/DONE-7C3AED?style=flat-square" height="22"/> |
 | **AHB → APB Bridge** <br/>`AMBA protocol bridge` | <img src="https://img.shields.io/badge/Verilog-00599C?style=flat-square" height="22"/> | <img src="https://img.shields.io/badge/DONE-7C3AED?style=flat-square" height="22"/> |
-| **Approximate MAC Unit** <br/>`Roba multiplier (2016)` | <img src="https://img.shields.io/badge/Verilog-7C3AED?style=flat-square" height="22"/> | <img src="https://img.shields.io/badge/DONE-7C3AED?style=flat-square" height="22"/> |
+| **Approximate MAC Unit** <br/>`ROBA multiplier (2016)` | <img src="https://img.shields.io/badge/Verilog-7C3AED?style=flat-square" height="22"/> | <img src="https://img.shields.io/badge/DONE-7C3AED?style=flat-square" height="22"/> |
 | **Router 1×3** <br/>`address-based packet router` | <img src="https://img.shields.io/badge/Verilog-00599C?style=flat-square" height="22"/> | <img src="https://img.shields.io/badge/DONE-7C3AED?style=flat-square" height="22"/> |
 | **Companion Robot** <br/>`PCB + firmware (ESP32)` | <img src="https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white" height="22"/> <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" height="22"/> | <img src="https://img.shields.io/badge/DONE-7C3AED?style=flat-square" height="22"/> |
 | **Spider Robot** <br/>`multi-servo platform` | <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" height="22"/> | <img src="https://img.shields.io/badge/DONE-7C3AED?style=flat-square" height="22"/> |
-| **IoT Dashboard** <br/>`real-time monitoring` | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="22"/> <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logoColor=white" height="22"/> | <img src="https://img.shields.io/badge/DONE-7C3AED?style=flat-square" height="22"/> |
-| **Portfolio Website** <br/>`personal branding` | <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" height="22"/> | <img src="https://img.shields.io/badge/LIVE-00E5FF?style=flat-square" height="22"/> |
 
 ---
 
@@ -100,7 +98,7 @@
 
 <p align="center">
   <a href="https://github.com/VarunPrasad07">
-    <img src="https://raw.githubusercontent.com/VarunPrasad07/VarunPrasad07/output/github-snake.svg" alt="Contribution Snake" width="85%" />
+    <img src="https://raw.githubusercontent.com/VarunPrasad07/VarunPrasad07/output/github-dino.svg" alt="Contribution Dino" width="85%" />
   </a>
 </p>
 
